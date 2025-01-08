@@ -1,0 +1,67 @@
+{
+  "version": "3.95.33670.0",
+  "course_id": "6qmrXSPoYOJ",
+  "title": "Curriculum Map in FigJam",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6KVYinYtw55",
+      "title": "Curriculum Map in FigJam",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Ky7wxjywpB",
+      "title": "3",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5cYe9WvmbXc",
+      "title": "Create a FigJam board.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ZM6XFLOcaH",
+      "title": "Create a FigJam board.",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6JWKHdaYwTY",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6KC48G8d7Fx",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6h8BJBjCgK3",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6a6diHAX00p",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6cjzZcJNddT",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
